@@ -41,7 +41,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/audio-visualizer.git
+git clone https://github.com/shani-ydv/Audio-Visualizer
 cd audio-visualizer
 Open index.html in your browser:
 
